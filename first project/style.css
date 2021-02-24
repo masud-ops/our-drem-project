@@ -1,0 +1,12 @@
+h1 {
+    padding: 25px;
+    background: #cae4c4;
+    color: #631616;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(31, 21, 18);
+    color: rgb(235, 225, 225);
+  }
